@@ -41,13 +41,13 @@ Set up Windows 10 and Android-x86 virtual machines in VirtualBox, connect both t
 Confirmed successful two-way ping connectivity between Kali Linux, Windows 10, and Android-x86 virtual machines on a shared VirtualBox NAT Network.
 
 **📱 Android-x86 ↔ Kali Linux:**
-![Android to Kali ping success](Screenshots/android-to-kali-ping.PNG)
+![Android to Kali ping success](Screenshots/Android-to-kali-ping.PNG)
 
-![Kali to Android ping success](Screenshots/kali-to-android-ping.PNG)
+![Kali to Android ping success](Screenshots/Kali-to-Android-ping.PNG)
 
 
 **🪟 Windows 10 ↔ Kali Linux:**
-![Windows 10 to Kali ping success](Screenshots/windows10-to-kali-ping.PNG)
+![Windows 10 to Kali ping success](Screenshots/Windows10-to-Kali-ping.PNG)
 
 
-![Kali to Windows 10 success](Screenshots/kali-windows10-to-kali-ping.PNG)
+![Kali to Windows 10 success](Screenshots/Kali-to-Windows10-ping.PNG)
